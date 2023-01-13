@@ -60,9 +60,13 @@ The datasets were collected from:
 
 • If Arabic is encoded in excel:
            - Create new excel file
+           
            - In the Data tab, click on (From Text/CSV) button
+           
            - Browse and select the excel file
+           
            - Change the File_origin to "Unicode (UTF-8)"
+           
            - Save
 
 ---
