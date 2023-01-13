@@ -8,7 +8,7 @@ Kaggle Link: https://www.kaggle.com/datasets/mostafanofal/two-million-rows-egypt
 
 ## Objective
 
-The datasets were collected for our Master's graduation project sponsered by Microsoft.
+The datasets were collected for our Master's graduation project sponsored by Microsoft.
 
 ## Title
 
