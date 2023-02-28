@@ -88,22 +88,35 @@ The project aims at identifying unfamiliar terms relatively new in the Egyptian 
 
 # <a name="5">Websites</a>
 
-The datasets were collected from:
+ We searched for the datasets in the related work papers and the most well-known websites like:
 
 
-*   Kaggle
-*   Github
-*   Huggingface
-*   Google Datasets
-*   ScienceDirect
-*   ResearchGate
-*   IEEE Xplore
+* Kaggle
+
+* Github
+
+* Huggingface
+
+* Google Datasets
+
+* ScienceDirect
+
+* ResearchGate
+
+* IEEE Xplore
+
+The datasets had different formats like XML, JSON, CSV and text so we unified them all to excel files format.
+
+
+
+We also worked on labeling the datasets with the year label and filtered them to combine our final output.
 
 ---
 
 # <a name="6">Pandas Read</a>
 
 `import pandas as pd`
+
 `data = pd.read_excel("Name.xlsx")`
 
 # <a name="7">Notes</a>
@@ -131,9 +144,9 @@ The datasets were collected from:
 
 Every dataset has the following format
 
-• Year
-
 • Source Name
+
+• Year
 
 • Information
 
