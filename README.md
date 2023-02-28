@@ -4,21 +4,75 @@ Kaggle Link: https://www.kaggle.com/datasets/mostafanofal/two-million-rows-egypt
 
 ---
 
-# Intro
+# Table of Contents
 
-## Objective
+[Objective](#1)
 
-The datasets were collected for our Master's graduation project sponsored by Microsoft.
+[Title](#2)
 
-## Title
+[Description](#3)
+
+[Team Members](#4)
+
+[Websites](#5)
+
+[Pandas Read](#6)
+
+[Notes](#7)
+
+[Egyptian Datasets Description](#8)
+
+- [Format](#9)
+
+- [1.Arabic Online Commentary (AOC)](#10)
+
+- [2.Arabic Egyptian Tweets](#11)
+
+- [3.TaghreedT](#12)
+
+- [4.Topic Extraction Data](#13)
+
+- [5.Habibi Lyrics Corpus](#14)
+
+- [6.Arabic Political Tweets](#15)
+
+- [7.ArabicReddit](#16)
+
+- [8.ar_arz_wiki_corpus](#17)
+
+- [9.QCRI](#18)
+
+- [10.SADID Benchmark Dataset](#19)
+
+- [11.DART](#20)
+
+- [12.Callhome Corpus](#21)
+
+[Other 40+ Arabic Datasets Links](#22)
+
+- [Contact](#23)
+
+- [Papers](#24)
+
+- [License](#25)
+
+# <a name="1">Objective</a>
+
+The datasets were part of our AI & Data Science Master's graduation project sponsored by Microsoft.
+
+Kaggle link: [Link](https://www.kaggle.com/datasets/mostafanofal/two-million-rows-egyptian-datasets)
+
+Check all the projects here: [Link](https://github.com/Mostafanofal453)
+
+# <a name="2">Title</a>
 
 Automating novel terms and usage detection in Egyptian Arabic dialect
 
-## Description
+# <a name="3">Description</a>
 
 The project aims at identifying unfamiliar terms relatively new in the Egyptian Arabic dialect. In addition to words that their meaning was changed over time with another context or misspelled to enhance the translation corpus.
 
-## Team Members
+# <a name="4">Team Members</a>
 
 [Khaled Elsaka](https://www.linkedin.com/in/khaled-el-saka-962700161/)
 
@@ -32,7 +86,7 @@ The project aims at identifying unfamiliar terms relatively new in the Egyptian 
 
 ---
 
-## Websites
+# <a name="5">Websites</a>
 
 The datasets were collected from:
 
@@ -47,12 +101,12 @@ The datasets were collected from:
 
 ---
 
-# Pandas Read
+# <a name="6">Pandas Read</a>
 
 `import pandas as pd`
 `data = pd.read_excel("Name.xlsx")`
 
-# Notes
+# <a name="7">Notes</a>
 
 • All Datasets have 3 columns (Text, Year, Source)
 
@@ -71,9 +125,9 @@ The datasets were collected from:
 
 ---
 
-# Egyptian Datasets Description
+# <a name="8">Egyptian Datasets Description</a>
 
-## Format
+## <a name="9">Format</a>
 
 Every dataset has the following format
 
@@ -89,7 +143,7 @@ Every dataset has the following format
 
 ---
 
-## 1.Arabic Online Commentary (AOC)
+## <a name="10">1.Arabic Online Commentary (AOC)</a>
 
 2010
 
@@ -105,7 +159,7 @@ Online version of Arabic newspaper: Al-Youm Al-Sabe’.
 
 ---
 
-## 2.Arabic Egyptian Tweets
+## <a name="11">2.Arabic Egyptian Tweets</a>
 
 2019
 
@@ -117,7 +171,7 @@ Egyptian Tweets
 
 ---
 
-## 3.TaghreedT
+## <a name="12">3.TaghreedT</a>
 
 2021
 
@@ -129,7 +183,7 @@ TaghreedT
 
 ---
 
-## 4.Topic Extraction Data
+## <a name="13">4.Topic Extraction Data</a>
 
 2019
 
@@ -145,7 +199,7 @@ Egyptian dialect tweets used for topic extraction and topic modelling research
 
 ---
 
-## 5.Habibi Lyrics Corpus
+## <a name="14">5.Habibi Lyrics Corpus</a>
 
 2019
 
@@ -157,7 +211,7 @@ Habibi
 
 ---
 
-## 6.Arabic Political Tweets
+## <a name="15">6.Arabic Political Tweets</a>
 
 2019
 
@@ -169,7 +223,7 @@ Political Tweets
 
 ---
 
-## 7.ArabicReddit
+## <a name="16">7.ArabicReddit</a>
 
 2021
 
@@ -181,7 +235,7 @@ Reddit
 
 ---
 
-## 8.ar_arz_wiki_corpus
+## <a name="17">8.ar_arz_wiki_corpus</a>
 
 2017
 
@@ -193,7 +247,7 @@ Arabic_Egyptian_Wikipedia (ar)
 
 ---
 
-## 9.QCRI
+## <a name="18">9.QCRI</a>
 
 2018
 
@@ -205,7 +259,7 @@ QCRI
 
 ---
 
-## 10.SADID Benchmark Dataset
+## <a name="19">10.SADID Benchmark Dataset</a>
 
 2020
 
@@ -217,7 +271,7 @@ SADID
 
 ---
 
-## 11.DART
+## <a name="20">11.DART</a>
 
 2018
 
@@ -229,7 +283,7 @@ DART
 
 ---
 
-## 12.Callhome Corpus
+## <a name="21">12.Callhome Corpus</a>
 
 2014
 
@@ -241,13 +295,13 @@ Callhome
 
 ---
 
-# Other Arabic Datasets Links
+# <a name="22">Other 40+ Arabic Datasets Links</a>
 
-## Contact
+## <a name="23">Contact</a>
 
 TEAD:
 
-Two million  egyptian tweets for sentiment analysis
+Two million  Egyptian tweets for sentiment analysis
 
 https://github.com/HSMAabdellaoui/TEAD
 
@@ -443,7 +497,6 @@ https://mt.qcri.org/api
 
 https://alt.qcri.org/resources1/mt/arabench
 
-
 2020
 
 COVID-19-Arabic-Tweets-Dataset
@@ -486,8 +539,7 @@ Large Multi-Domain Resources for Arabic Sentiment Analysis
 
 https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces
 
-
-##Papers
+## <a name="24">Papers </a>
 
 Freely Available Arabic Corpora: A Scoping Review  (various)
 
@@ -497,8 +549,6 @@ https://www.sciencedirect.com/science/article/pii/S2666990022000015#bib0039
 combination of subsets of five corpora: DART, SHAMI, TSAC, PADIC and AOC
 
 https://www.sciencedirect.com/science/article/pii/S2352340921010519
-
-## Papers
 
 NileULex: A Phrase and Word Level Sentiment Lexicon for Egyptian and Modern Standard Arabic
 
@@ -524,7 +574,7 @@ Automatic Building of Arabic Multi Dialect Text Corpora by Bootstrapping Dialect
 
 https://www.researchgate.net/publication/261489194_Automatic_building_of_Arabic_multi_dialect_text_corpora_by_bootstrapping_dialect_words
 
-## License
+## <a name="25">License</a>
 
 2021
 
